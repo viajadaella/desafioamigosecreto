@@ -3,7 +3,7 @@
 ## 🚀 Acesso ao Site  
 
 📌 **Acesse o projeto no GitHub Pages:**  
-🔗 [Clique aqui para ver o Amigo Secreto online!](https://viajadaella.github.io/desafioamigosecreto/)
+🔗 [https://viajadaella.github.io/desafioamigosecreto/](https://viajadaella.github.io/desafioamigosecreto/)
 
 
 Este projeto é uma aplicação web simples para realizar sorteios de **Amigo Secreto**. Os usuários podem adicionar amigos à lista e, em seguida, sortear os pares de forma aleatória.
